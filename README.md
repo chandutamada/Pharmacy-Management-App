@@ -1,7 +1,7 @@
 # 💊 Pharmacy Management App
 
-A complete Android-based solution designed to simplify and automate pharmacy operations. This app handles inventory, billing, customer records, and now offers **Free Doctor Consultancy** to provide additional value to users.
 
+A complete Android-based solution designed to simplify and automate pharmacy operations. This app handles inventory, billing, customer records, and now offers **Free Doctor Consultancy** to provide additional value to users.
 ---
 
 ## 🚀 Features
